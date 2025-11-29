@@ -1,0 +1,79 @@
+.maindk {
+  background-image: url("images/background.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 60vh;
+}
+.dangkybox {
+  display: flex;
+  justify-content: center;
+}
+
+.boxdangky {
+  background: white;
+  display: grid;
+  width: 40%;
+  margin: 20px 15px;
+  padding: 4% 4% 4% 4%;
+  /* justify-content: center; */
+}
+.taotaikhoan h1 {
+  color: #209de6;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+}
+.tentaikhoan p {
+  color: black;
+  font-size: 15px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+.tenhienthi p {
+  color: black;
+  font-size: 15px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+.matkhau p {
+  color: black;
+  font-size: 15px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+.nhaplaimatkhau p {
+  color: black;
+  font-size: 15px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+.tentaikhoan {
+  margin-bottom: 10px;
+}
+.tenhienthi {
+  margin-bottom: 10px;
+}
+.matkhau {
+  margin-bottom: 10px;
+}
+.nhaplaimatkhau {
+  margin-bottom: 10px;
+}
+input[type="text"] {
+  width: 100%;
+}
+.buttondk {
+  border: 1px solid #209de6;
+  background-color: #209de6;
+  border-radius: 4%;
+  display: flex;
+  justify-content: center;
+}
+.buttondk p {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px !important;
+}

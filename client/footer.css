@@ -1,0 +1,140 @@
+.footer {
+  background: rgb(0, 0, 0);
+  padding: 35px 0px;
+  width: 100%;
+}
+
+.wap_content {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 0px 75px;
+}
+
+.footer_left {
+  width: 100%;
+}
+
+.footer_right {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.footer_logo {
+  width: 55%;
+}
+
+.footer_logo img {
+  width: 50%;
+}
+
+.footer_left--title p {
+  font-family: "SFCompactDisplay Medium", sans-serif;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  margin-bottom: 0px;
+  text-align: justify;
+}
+
+.footer_left--text1 p,
+.footer_left--text2 p,
+.footer_left--text3 p {
+  font-family: "SFCompactDisplay Light", sans-serif;
+  font-size: 16px;
+  color: #209de6;
+  text-align: justify;
+  margin-bottom: 0px;
+}
+
+.footer_right--top {
+  display: flex;
+  width: 100%;
+  margin-bottom: 35px;
+}
+
+.right_top--box {
+  width: 100%;
+}
+
+.top_box-title {
+  margin-bottom: 15px;
+}
+
+.top_box-title h6 {
+  font-family: "SFCompactDisplay Medium", sans-serif;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+}
+
+.top_box-title h6::after {
+  background: rgb(233, 0, 0);
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  height: 3px;
+  top: 104%;
+}
+@media screen and (max-width: 680px) {
+  .wap_content {
+    grid-template-columns: 1fr;
+  }
+  .footer_left {
+    text-align: center;
+  }
+  .footer_left--title p,
+  .footer_left--text1 p,
+  .footer_left--text2 p,
+  .footer_left--text3 p {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .footer_right--bottom {
+    gap: 20px;
+    grid-template-columns: 1fr;
+  }
+  .footer_right {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 431px) {
+  .wap_content {
+    grid-template-columns: 1fr;
+    gap: 0px 30px;
+  }
+  .footer_logo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .footer_right {
+    display: grid;
+    justify-content: center;
+    width: 100%;
+  }
+  .footer_right--top {
+    gap: 15px;
+  }
+  .right_top--box {
+    width: 100%;
+    text-align: center;
+  }
+  .top_box-title {
+    width: 100px;
+  }
+}
+
+@media (max-width: 320px) {
+  .footer_right--bottom {
+    width: 88%;
+  }
+  .footer_right--top {
+    width: 100%;
+  }
+  .footer_left {
+    width: 97%;
+  }
+}

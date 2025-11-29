@@ -1,0 +1,707 @@
+[
+  {
+    "_id": { "$oid": "6921575978bbc50c0acaae68" },
+    "title": "Tài Khoản Liên Quân VIP 1",
+    "slug": "lien-quan-vip-1",
+    "description": "Acc Liên Quân full tướng, full trang phục.",
+    "category": "LienQuan",
+    "images": ["lq1.jpg", "lq2.jpg"],
+    "variants": [
+      { "name": "Gói 1", "price": 150000, "stock": 5, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T06:25:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575a78bbc50c0acaae69" },
+    "title": "Tài Khoản Liên Quân VIP 2",
+    "slug": "lien-quan-vip-2",
+    "description": "Acc Liên Quân nhiều trang phục hiếm.",
+    "category": "LienQuan",
+    "images": ["lq3.jpg", "lq4.jpg"],
+    "variants": [
+      { "name": "Gói 1", "price": 160000, "stock": 6, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T06:26:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575a78bbc50c0acaae6a" },
+    "title": "Tài Khoản Liên Quân VIP 3",
+    "slug": "lien-quan-vip-3",
+    "description": "Acc Liên Quân VIP, full tướng và trang phục.",
+    "category": "LienQuan",
+    "images": ["lq5.jpg", "lq6.jpg"],
+    "variants": [
+      { "name": "Gói 1", "price": 170000, "stock": 4, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T06:27:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575a78bbc50c0acaae6b" },
+    "title": "Tài Khoản Liên Quân VIP 4",
+    "slug": "lien-quan-vip-4",
+    "description": "Acc Liên Quân, trang phục full, tướng hiếm.",
+    "category": "LienQuan",
+    "images": ["lq7.jpg", "lq8.jpg"],
+    "variants": [
+      { "name": "Gói 1", "price": 180000, "stock": 5, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T06:28:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575a78bbc50c0acaae6c" },
+    "title": "Tài Khoản Liên Quân VIP 5",
+    "slug": "lien-quan-vip-5",
+    "description": "Acc Liên Quân VIP full tướng, nhiều trang phục.",
+    "category": "LienQuan",
+    "images": ["lq9.jpg", "lq10.png"],
+    "variants": [
+      { "name": "Gói 1", "price": 190000, "stock": 3, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T06:29:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575b78bbc50c0acaae6d" },
+    "title": "Tài Khoản Liên Quân VIP 6",
+    "slug": "lien-quan-vip-6",
+    "description": "Acc Liên Quân VIP nhiều skin S.",
+    "category": "LienQuan",
+    "images": ["lq11.jpg", "lq12.png"],
+    "variants": [
+      { "name": "Gói 1", "price": 200000, "stock": 4, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T06:30:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575b78bbc50c0acaae6e" },
+    "title": "Tài Khoản Liên Quân VIP 7",
+    "slug": "lien-quan-vip-7",
+    "description": "Acc full trang phục hữu hạn và tướng hiếm.",
+    "category": "LienQuan",
+    "images": ["lq13.jpg", "lq14.png"],
+    "variants": [
+      { "name": "Gói 1", "price": 210000, "stock": 5, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T06:31:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575b78bbc50c0acaae6f" },
+    "title": "Tài Khoản Liên Quân VIP 8",
+    "slug": "lien-quan-vip-8",
+    "description": "Acc có lịch sử tốt, nhiều tướng, nhiều skin.",
+    "category": "LienQuan",
+    "images": ["lq15.jpg", "lq16.webp"],
+    "variants": [
+      { "name": "Gói 1", "price": 220000, "stock": 3, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T06:32:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575b78bbc50c0acaae70" },
+    "title": "Tài Khoản Liên Quân VIP 9",
+    "slug": "lien-quan-vip-9",
+    "description": "Acc cực mạnh dành cho người chơi pro.",
+    "category": "LienQuan",
+    "images": ["lq17.jpg", "lq18.jpg"],
+    "variants": [
+      { "name": "Gói 1", "price": 230000, "stock": 4, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T06:33:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575b78bbc50c0acaae71" },
+    "title": "Tài Khoản Liên Quân VIP 10",
+    "slug": "lien-quan-vip-10",
+    "description": "Acc Liên Quân full tướng và 70% trang phục.",
+    "category": "LienQuan",
+    "images": ["lq19.jpg", "lq20.jpg"],
+    "variants": [
+      { "name": "Gói 1", "price": 240000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T06:34:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae72" },
+    "title": "Tài Khoản Free Fire 1",
+    "slug": "free-fire-1",
+    "description": "Acc Free Fire full hành động, hiếm.",
+    "category": "FreeFire",
+    "images": ["ff1.jpg", "ff2.jpg"],
+    "variants": [
+      { "name": "Thường", "price": 90000, "stock": 10, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T07:00:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae73" },
+    "title": "Tài Khoản Free Fire 2",
+    "slug": "free-fire-2",
+    "description": "Acc Free Fire VIP nhiều skin hiếm.",
+    "category": "FreeFire",
+    "images": ["ff3.jpg", "ff4.jpg"],
+    "variants": [
+      { "name": "VIP", "price": 200000, "stock": 4, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T07:01:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae74" },
+    "title": "Tài Khoản Free Fire 3",
+    "slug": "free-fire-3",
+    "description": "Acc rank cao, nhiều trang phục hot.",
+    "category": "FreeFire",
+    "images": ["ff5.jpg", "ff6.jpg"],
+    "variants": [
+      { "name": "Cao", "price": 180000, "stock": 5, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T07:02:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae75" },
+    "title": "Tài Khoản Free Fire 4",
+    "slug": "free-fire-4",
+    "description": "Acc Free Fire VIP full trang phục.",
+    "category": "FreeFire",
+    "images": ["ff7.jpg", "ff8.jpg"],
+    "variants": [
+      { "name": "VIP Full", "price": 220000, "stock": 3, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T07:03:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae76" },
+    "title": "Tài Khoản Free Fire 5",
+    "slug": "free-fire-5",
+    "description": "Acc Free Fire nhiều skin S và tướng hiếm.",
+    "category": "FreeFire",
+    "images": ["ff9.jpg", "ff10.jpg"],
+    "variants": [
+      { "name": "VIP S", "price": 250000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T07:04:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae77" },
+    "title": "Tài Khoản Free Fire 6",
+    "slug": "free-fire-6",
+    "description": "Acc Free Fire có rank cao, skin rare.",
+    "category": "FreeFire",
+    "images": ["ff11.jpg", "ff12.jpg"],
+    "variants": [
+      { "name": "Rare", "price": 260000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T07:05:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae78" },
+    "title": "Tài Khoản Free Fire 7",
+    "slug": "free-fire-7",
+    "description": "Acc Free Fire VIP, skin S và tướng hiếm.",
+    "category": "FreeFire",
+    "images": ["ff13.jpg", "ff14.jpg"],
+    "variants": [
+      { "name": "VIP S", "price": 270000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T07:06:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae79" },
+    "title": "Tài Khoản Free Fire 8",
+    "slug": "free-fire-8",
+    "description": "Acc Free Fire nhiều skin rare, rank cao.",
+    "category": "FreeFire",
+    "images": ["ff15.jpg", "ff16.jpg"],
+    "variants": [
+      { "name": "Rare", "price": 280000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T07:07:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae7a" },
+    "title": "Tài Khoản Free Fire 9",
+    "slug": "free-fire-9",
+    "description": "Acc Free Fire VIP nhiều skin hot.",
+    "category": "FreeFire",
+    "images": ["ff17.jpg", "ff18.jpg"],
+    "variants": [
+      { "name": "Hot", "price": 290000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T07:08:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575c78bbc50c0acaae7b" },
+    "title": "Tài Khoản Free Fire 10",
+    "slug": "free-fire-10",
+    "description": "Acc Free Fire full skin, rank cao.",
+    "category": "FreeFire",
+    "images": ["ff19.jpg", "ff20.jpg"],
+    "variants": [
+      { "name": "VIP Full", "price": 300000, "stock": 1, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T07:09:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae7c" },
+    "title": "Acc PUBG 1",
+    "slug": "pubg-1",
+    "description": "Acc PUBG rank cao, trang phục đa dạng.",
+    "category": "PUBG",
+    "images": ["pubg1.jpg", "pubg2.jpg"],
+    "variants": [
+      { "name": "Basic", "price": 180000, "stock": 6, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T08:00:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae7d" },
+    "title": "Acc PUBG 2",
+    "slug": "pubg-2",
+    "description": "Acc rank cao, full skin hot.",
+    "category": "PUBG",
+    "images": ["pubg3.jpg", "pubg4.jpg"],
+    "variants": [
+      { "name": "Premium", "price": 350000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T08:01:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae7e" },
+    "title": "Acc PUBG 3",
+    "slug": "pubg-3",
+    "description": "Acc PUBG VIP full skin rare.",
+    "category": "PUBG",
+    "images": ["pubg5.jpg", "pubg6.jpg"],
+    "variants": [
+      { "name": "VIP", "price": 400000, "stock": 3, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T08:02:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae7f" },
+    "title": "Acc PUBG 4",
+    "slug": "pubg-4",
+    "description": "Acc rank cao, nhiều skin hot.",
+    "category": "PUBG",
+    "images": ["pubg7.jpg", "pubg8.jpg"],
+    "variants": [
+      { "name": "Hot", "price": 320000, "stock": 4, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T08:03:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae80" },
+    "title": "Acc PUBG 5",
+    "slug": "pubg-5",
+    "description": "Acc VIP full trang phục rare.",
+    "category": "PUBG",
+    "images": ["pubg9.jpg", "pubg10.jpg"],
+    "variants": [
+      { "name": "Rare", "price": 380000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T08:04:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae81" },
+    "title": "Acc PUBG 6",
+    "slug": "pubg-6",
+    "description": "Acc VIP rank cao, skin hiếm.",
+    "category": "PUBG",
+    "images": ["pubg11.jpg", "pubg12.jpg"],
+    "variants": [
+      { "name": "Rare", "price": 390000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T08:05:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae82" },
+    "title": "Acc PUBG 7",
+    "slug": "pubg-7",
+    "description": "Acc rank cao VIP, nhiều trang phục.",
+    "category": "PUBG",
+    "images": ["pubg13.jpg", "pubg14.jpg"],
+    "variants": [
+      { "name": "VIP", "price": 410000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T08:06:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae83" },
+    "title": "Acc PUBG 8",
+    "slug": "pubg-8",
+    "description": "Acc VIP nhiều skin hot và rare.",
+    "category": "PUBG",
+    "images": ["pubg15.jpg", "pubg16.jpg"],
+    "variants": [
+      { "name": "VIP Hot", "price": 420000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T08:07:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae84" },
+    "title": "Acc PUBG 9",
+    "slug": "pubg-9",
+    "description": "Acc VIP full skin, rank cao.",
+    "category": "PUBG",
+    "images": ["pubg17.jpg", "pubg18.jpg"],
+    "variants": [
+      { "name": "VIP Full", "price": 450000, "stock": 1, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T08:08:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae85" },
+    "title": "Acc PUBG 10",
+    "slug": "pubg-10",
+    "description": "Acc VIP max skin, rank cao.",
+    "category": "PUBG",
+    "images": ["pubg19.jpg", "pubg20.jpg"],
+    "variants": [
+      { "name": "VIP Max", "price": 480000, "stock": 1, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T08:09:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae86" },
+    "title": "Acc Genshin Impact 1",
+    "slug": "genshin-1",
+    "description": "Acc rank cao, nhân vật hiếm.",
+    "category": "Genshin",
+    "images": ["gi1.jpg", "gi2.jpg"],
+    "variants": [
+      { "name": "Standard", "price": 200000, "stock": 5, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T09:00:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae87" },
+    "title": "Acc Genshin Impact 2",
+    "slug": "genshin-2",
+    "description": "Acc VIP nhiều nhân vật S, A.",
+    "category": "Genshin",
+    "images": ["gi3.jpg", "gi4.jpg"],
+    "variants": [
+      { "name": "VIP", "price": 350000, "stock": 3, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T09:01:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae88" },
+    "title": "Acc Genshin Impact 3",
+    "slug": "genshin-3",
+    "description": "Acc rank cao, nhiều nhân vật hot.",
+    "category": "Genshin",
+    "images": ["gi5.jpg", "gi6.jpg"],
+    "variants": [
+      { "name": "Hot", "price": 300000, "stock": 4, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T09:02:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae89" },
+    "title": "Acc Genshin Impact 4",
+    "slug": "genshin-4",
+    "description": "Acc VIP max nhân vật, trang phục rare.",
+    "category": "Genshin",
+    "images": ["gi7.jpg", "gi8.jpg"],
+    "variants": [
+      { "name": "VIP Full", "price": 400000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T09:03:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae8a" },
+    "title": "Acc Genshin Impact 5",
+    "slug": "genshin-5",
+    "description": "Acc rank cao, nhiều skin và vật phẩm hiếm.",
+    "category": "Genshin",
+    "images": ["gi9.jpg", "gi10.jpg"],
+    "variants": [
+      { "name": "Rare", "price": 380000, "stock": 3, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T09:04:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae8b" },
+    "title": "Acc Genshin Impact 6",
+    "slug": "genshin-6",
+    "description": "Acc VIP nhân vật hiếm, trang phục đẹp.",
+    "category": "Genshin",
+    "images": ["gi11.jpg", "gi12.jpg"],
+    "variants": [
+      { "name": "VIP Rare", "price": 420000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T09:05:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae8c" },
+    "title": "Acc Genshin Impact 7",
+    "slug": "genshin-7",
+    "description": "Acc rank cao, VIP nhân vật hiếm.",
+    "category": "Genshin",
+    "images": ["gi13.jpg", "gi14.jpg"],
+    "variants": [
+      { "name": "VIP", "price": 450000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T09:06:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae8d" },
+    "title": "Acc Genshin Impact 8",
+    "slug": "genshin-8",
+    "description": "Acc VIP max nhân vật và trang phục rare.",
+    "category": "Genshin",
+    "images": ["gi15.jpg", "gi16.jpg"],
+    "variants": [
+      { "name": "VIP Max", "price": 500000, "stock": 1, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T09:07:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae8e" },
+    "title": "Acc Genshin Impact 9",
+    "slug": "genshin-9",
+    "description": "Acc rank cao, VIP full nhân vật hiếm.",
+    "category": "Genshin",
+    "images": ["gi17.jpg", "gi18.jpg"],
+    "variants": [
+      { "name": "VIP Full", "price": 550000, "stock": 1, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T09:08:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae8f" },
+    "title": "Acc Genshin Impact 10",
+    "slug": "genshin-10",
+    "description": "Acc VIP max nhân vật và vật phẩm hiếm.",
+    "category": "Genshin",
+    "images": ["gi19.jpg", "gi20.jpg"],
+    "variants": [
+      { "name": "VIP Max", "price": 600000, "stock": 1, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T09:09:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae90" },
+    "title": "Acc Roblox 1",
+    "slug": "roblox-1",
+    "description": "Acc Roblox rank cao, nhiều vật phẩm hiếm.",
+    "category": "Roblox",
+    "images": ["rb1.jpg", "rb2.jpg"],
+    "variants": [
+      { "name": "Standard", "price": 80000, "stock": 10, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T10:00:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae91" },
+    "title": "Acc Roblox 2",
+    "slug": "roblox-2",
+    "description": "Acc Roblox VIP nhiều vật phẩm, trang phục hiếm.",
+    "category": "Roblox",
+    "images": ["rb3.jpg", "rb4.jpg"],
+    "variants": [
+      { "name": "VIP", "price": 120000, "stock": 5, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T10:01:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae92" },
+    "title": "Acc Roblox 3",
+    "slug": "roblox-3",
+    "description": "Acc Roblox VIP max vật phẩm hiếm.",
+    "category": "Roblox",
+    "images": ["rb5.jpg", "rb6.jpg"],
+    "variants": [
+      { "name": "VIP Max", "price": 150000, "stock": 3, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T10:02:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae93" },
+    "title": "Acc Roblox 4",
+    "slug": "roblox-4",
+    "description": "Acc rank cao, vật phẩm đa dạng.",
+    "category": "Roblox",
+    "images": ["rb7.jpg", "rb8.jpg"],
+    "variants": [
+      { "name": "Hot", "price": 110000, "stock": 6, "deliveredData": [] }
+    ],
+    "featured": false,
+    "createdAt": { "$date": "2025-11-22T10:03:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae94" },
+    "title": "Acc Roblox 5",
+    "slug": "roblox-5",
+    "description": "Acc VIP full trang phục rare.",
+    "category": "Roblox",
+    "images": ["rb9.jpg", "rb10.jpg"],
+    "variants": [
+      { "name": "Rare", "price": 140000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T10:04:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae95" },
+    "title": "Acc Roblox 6",
+    "slug": "roblox-6",
+    "description": "Acc VIP vật phẩm hiếm, trang phục đẹp.",
+    "category": "Roblox",
+    "images": ["rb11.jpg", "rb12.jpg"],
+    "variants": [
+      { "name": "VIP Rare", "price": 160000, "stock": 2, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T10:05:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae96" },
+    "title": "Acc Roblox 7",
+    "slug": "roblox-7",
+    "description": "Acc VIP max vật phẩm và trang phục rare.",
+    "category": "Roblox",
+    "images": ["rb13.jpg", "rb14.jpg"],
+    "variants": [
+      { "name": "VIP Max", "price": 180000, "stock": 1, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T10:06:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae97" },
+    "title": "Acc Roblox 8",
+    "slug": "roblox-8",
+    "description": "Acc VIP full vật phẩm hiếm.",
+    "category": "Roblox",
+    "images": ["rb15.jpg", "rb16.jpg"],
+    "variants": [
+      { "name": "VIP Full", "price": 200000, "stock": 1, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T10:07:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae98" },
+    "title": "Acc Roblox 9",
+    "slug": "roblox-9",
+    "description": "Acc VIP max vật phẩm, rank cao.",
+    "category": "Roblox",
+    "images": ["rb17.jpg", "rb18.jpg"],
+    "variants": [
+      { "name": "VIP Max", "price": 220000, "stock": 1, "deliveredData": [] }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T10:08:30.003Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6921575d78bbc50c0acaae99" },
+    "title": "Acc Roblox 10",
+    "slug": "roblox-10",
+    "description": "Acc VIP max vật phẩm, full trang phục hiếm.",
+    "category": "Roblox",
+    "images": ["rb19.jpg", "rb20.jpg"],
+    "variants": [
+      {
+        "name": "VIP Max Full",
+        "price": 250000,
+        "stock": 1,
+        "deliveredData": []
+      }
+    ],
+    "featured": true,
+    "createdAt": { "$date": "2025-11-22T10:09:30.003Z" },
+    "__v": 0
+  }
+]

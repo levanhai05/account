@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "692158e8dc049d2b98e107d5"
+  },
+  "user": {
+    "$oid": "691acc0a267e1205e1eaad80"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "6921575978bbc50c0acaae68"
+      },
+      "variantName": "Gói 1",
+      "price": 150000,
+      "quantity": 1,
+      "deliveredData": "acc123|pass123",
+      "_id": {
+        "$oid": "692158e8dc049d2b98e107d6"
+      }
+    }
+  ],
+  "status": "delivered",
+  "createdAt": {
+    "$date": "2025-11-22T06:32:08.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692158e8dc049d2b98e107d7"
+  },
+  "user": {
+    "$oid": "691acc0a267e1205e1eaad80"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "6921575a78bbc50c0acaae69"
+      },
+      "variantName": "Thường",
+      "price": 90000,
+      "quantity": 1,
+      "deliveredData": "ff_acc_9988|pass001",
+      "_id": {
+        "$oid": "692158e8dc049d2b98e107d8"
+      }
+    }
+  ],
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-11-22T06:32:08.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692158e8dc049d2b98e107d9"
+  },
+  "user": {
+    "$oid": "691acc0a267e1205e1eaad80"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "6921575a78bbc50c0acaae6a"
+      },
+      "variantName": "Premium",
+      "price": 350000,
+      "quantity": 1,
+      "deliveredData": "pubg_sss|9999",
+      "_id": {
+        "$oid": "692158e8dc049d2b98e107da"
+      }
+    }
+  ],
+  "status": "paid",
+  "createdAt": {
+    "$date": "2025-11-22T06:32:08.124Z"
+  },
+  "__v": 0
+}]

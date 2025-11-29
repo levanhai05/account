@@ -1,0 +1,63 @@
+.maindn {
+  background-image: url("images/background.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 60vh;
+}
+.dangnhapbox {
+  display: flex;
+  justify-content: center;
+}
+
+.boxdangnhap {
+  background: white;
+  display: grid;
+  width: 40%;
+  margin: 20px 15px;
+  padding: 4% 4% 4% 4%;
+  /* justify-content: center; */
+}
+.dangnhap h1 {
+  color: #209de6;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+}
+.tentaikhoan p {
+  color: black;
+  font-size: 15px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+
+.matkhau p {
+  color: black;
+  font-size: 15px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+.tentaikhoan {
+  margin-bottom: 10px;
+}
+
+.matkhau {
+  margin-bottom: 10px;
+}
+input[type="text"] {
+  width: 100%;
+}
+.buttondn {
+  border: 1px solid #209de6;
+  background-color: #209de6;
+  border-radius: 4%;
+  display: flex;
+  justify-content: center;
+}
+.buttondn p {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px !important;
+}
